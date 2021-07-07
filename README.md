@@ -1,3 +1,5 @@
+### Currently in use by [Fletcher](https://github.com/codelittinc/fletcher/blob/develop/Gemfile#L45)
+
 [![Build Status](https://travis-ci.org/norman/friendly_id.svg)](https://travis-ci.org/norman/friendly_id)
 [![Code Climate](https://codeclimate.com/github/norman/friendly_id.svg)](https://codeclimate.com/github/norman/friendly_id)
 [![Inline docs](http://inch-ci.org/github/norman/friendly_id.svg?branch=master)](http://inch-ci.org/github/norman/friendly_id)
